@@ -1,0 +1,6 @@
+pandas 
+asyncio 
+playwright==1.52.0
+psycopg2-binary
+pyarrow
+google-cloud-storage
